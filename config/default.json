@@ -1,0 +1,6 @@
+{
+    "bot": {
+        "microsoftAppId": "YOUR_APP_ID",
+        "microsoftAppPassword": "YOUR_APP_PASSWORD"
+    }
+}
