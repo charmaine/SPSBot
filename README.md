@@ -8,3 +8,4 @@
 
 This bot was made for a demo at SharePoint Saturday for the session-- [Azure Information Protection: Taking a Team Approach From Planning to Adoption](http://www.spsevents.org/city/Vancouver/Vancouver2018/_layouts/15/SPSEvents/Speakers/Session.aspx?ID=45&IsDlg=1).
     
+*`aip.html` is to showcase how to embed the Teams bot as a Skype bot within any web page*
