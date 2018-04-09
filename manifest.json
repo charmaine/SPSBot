@@ -1,0 +1,37 @@
+{
+    "$schema": "https://statics.teams.microsoft.com/sdk/v1.0/manifest/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.0",
+    "version": "1.0.0",
+    "id": "YOUR_APP_ID",
+    "packageName": "com.contoso.helloworld",
+    "developer": {
+        "name": "Contoso",
+        "websiteUrl": "https://www.microsoft.com",
+        "privacyUrl": "https://www.microsoft.com/privacy",
+        "termsOfUseUrl": "https://www.microsoft.com/termsofuse"
+    },
+    "name": {
+        "short": "aip",
+        "full": "Bot to promote adoption of Azure Information Protection"
+    },
+    "description": {
+        "short": "Bot to promote adoption of Azure Information Protection",
+        "full": "SharePoint Saturday Bot to showcase possible ways to promote adoption of Azure Information Protection"
+    },
+    "icons": {
+        "outline": "contoso20x20.png",
+        "color": "contoso96x96.png"
+    },
+    "accentColor": "#60A18E",
+    "bots": [{
+        "botId": "YOUR_APP_ID",
+        "needsChannelSelector": false,
+        "isNotificationOnly": false,
+        "scopes": [
+            "team",
+            "personal"
+        ]
+    }],
+    "permissions": [],
+    "validDomains": []
+}
